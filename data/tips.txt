@@ -1,0 +1,1 @@
+numpy格式的mnist数据集文件
